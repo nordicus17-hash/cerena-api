@@ -1,0 +1,7 @@
+{
+  "name": "cerena-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Gateway Cerena (LASY + Google Places/Geocoding) em funções serverless.",
+  "scripts": { "start": "echo Cerena API - deploy via Vercel" }
+}
